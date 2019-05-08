@@ -1,0 +1,17 @@
+public class Articulo2 {
+	private int id;
+	private String nombre;
+    private String telefono;
+
+
+    public Articulo2 (){
+
+    }
+    public int getId (){
+    	return this.id;
+    }
+    public void setId (int id){
+    this.id=id;
+}
+
+}
